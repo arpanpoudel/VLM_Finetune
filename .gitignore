@@ -1,0 +1,14 @@
+dataset_files/
+files/
+index_files/
+mimic-cxr/
+output/
+output_2_corrected/
+output_3_cleaned/
+output_3b/
+report/
+sample_images/
+test/
+wandb/
+*.log
+*.slurm

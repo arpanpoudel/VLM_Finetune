@@ -1,0 +1,1 @@
+python main.py --mode test --image_path /home/arpanp/Fed_Vision_Language/sample_images/s50414267/02aa804e-bde0afdd-112c0b34-7bc16630-4e384014.jpg

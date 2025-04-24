@@ -1,0 +1,8 @@
+{
+    "exclude": [
+        "./files",
+        "./index_files",
+        "./report",
+        "./dataset_files"
+    ]
+}
